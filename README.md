@@ -37,7 +37,7 @@ Follow these step to install
 
 **Frontend:**
 ```
-$ git clone https://github.com/muhrifai7/mamiclone2
+$ git clone https://github.com/eryzerz/mami-clone.git
 $ cd mamiclone2
 $ npm install
 $ react-native run-android #for android
@@ -45,7 +45,7 @@ $ react-native run-android #for android
 
 **Back-end:**
 ```
-$ git clone https://github.com/eryzerz/mamiclone-api
+$ git clone https://github.com/eryzerz/mamiclone-api.git
 $ cd mamiclone-api
 $ npm install
 ```
