@@ -1,6 +1,7 @@
 # Mamiclone Project
 
 ## Important
+This is a group project so I duplicate it to my own repo, I actively contribute to main repo in [here](https://github.com/muhrifai7/mamiclone2).
 This project is still on very early development stage. If you want to use for production, use it with your own risk. Back-end repo in [here](https://github.com/eryzerz/mamiclone-api)
 <br>More feature Coming Really Soon.
 
